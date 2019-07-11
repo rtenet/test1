@@ -1,0 +1,1 @@
+c:\users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe.config

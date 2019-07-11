@@ -1,0 +1,17 @@
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\bin\Debug\MVVMDemo1.exe.config
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\bin\Debug\MVVMDemo1.exe
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\bin\Debug\MVVMDemo1.pdb
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.csprojResolveAssemblyReference.cache
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MainWindow.g.cs
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\Views\StudentView.g.cs
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\App.g.cs
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1_MarkupCompile.cache
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1_MarkupCompile.lref
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MainWindow.baml
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\Views\StudentView.baml
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.g.resources
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.Properties.Resources.resources
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.csproj.GenerateResource.Cache
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.exe
+c:\Users\rt185140\documents\visual studio 2013\Projects\MVVMDemo\MVVMDemo1\obj\Debug\MVVMDemo1.pdb
